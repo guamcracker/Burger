@@ -1,4 +1,4 @@
-# Burger APP
+# Burger App
 
 Useing Node Express Handlebars: 
 
